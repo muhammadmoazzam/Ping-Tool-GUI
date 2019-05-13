@@ -1,0 +1,11 @@
+D:\My Programs\Ping\WindowsApplication1\bin\Debug\Ping Tester.exe.config
+D:\My Programs\Ping\WindowsApplication1\bin\Debug\Ping Tester.exe
+D:\My Programs\Ping\WindowsApplication1\bin\Debug\Ping Tester.pdb
+D:\My Programs\Ping\WindowsApplication1\bin\Debug\Ping Tester.xml
+D:\My Programs\Ping\WindowsApplication1\obj\Debug\Ping.Form1.resources
+D:\My Programs\Ping\WindowsApplication1\obj\Debug\Ping.Resources.resources
+D:\My Programs\Ping\WindowsApplication1\obj\Debug\Ping Tester.vbproj.GenerateResource.cache
+D:\My Programs\Ping\WindowsApplication1\obj\Debug\Ping Tester.vbproj.CoreCompileInputs.cache
+D:\My Programs\Ping\WindowsApplication1\obj\Debug\Ping Tester.exe
+D:\My Programs\Ping\WindowsApplication1\obj\Debug\Ping Tester.xml
+D:\My Programs\Ping\WindowsApplication1\obj\Debug\Ping Tester.pdb
